@@ -1,1 +1,6 @@
+
 github 연동하고 db에서 첫 수정
+
+github 연동하고 master에서 첫 수정
+
+랑 중돌났음
